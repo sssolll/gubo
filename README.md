@@ -1,4 +1,10 @@
-# 소설가 구보씨의 일일
+# 소설가 구보씨의 일일 
+
+![gubo-soundh.net](https://drive.google.com/uc?id=1Y1jAxFrS4Z3shSSn9dzQJ425cfioQvwJ)
+
+▶️ http://soundh.net/modern/gubo
+
+---
 
 ## Resources
 ### 지도
@@ -32,3 +38,7 @@
 * 3D Map API: [Cesium](https://cesium.com/)
 * Web Framework: [django](https://www.djangoproject.com/)
 
+---
+
+## Creator
+* 만든이: 서소리
