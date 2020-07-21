@@ -9,17 +9,14 @@ VIEW ▶️ http://soundh.net/modern/gubo
 ## Resources
 ### 지도
 * 경성정밀지도(서13209) - 1933년 제작
-  * 원자료: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21714&arcvNo=67487&realArcvGroupNo=3124&searchVal=)
-  * 맵 타일 서비스: https://mapwarper.net/maps/48721#Export_tab
+  * 출처: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21714&arcvNo=67487&realArcvGroupNo=3124&searchVal=)
 * 경성부관내도(서3147) - 1934년 제작
-  * 원자료: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21715&arcvNo=67488&realArcvGroupNo=3124&searchVal=)
-  * 맵 타일 서비스: https://mapwarper.net/maps/48718#Export_tab
+  * 출처: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21715&arcvNo=67488&realArcvGroupNo=3124&searchVal=)
 * 대경성정도(서13539) - 1936년 제작
-  * 원자료: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21716&arcvNo=67489&realArcvGroupNo=3124&searchVal=)
-  * 맵 타일 서비스: https://mapwarper.net/maps/48698#Export_tab
+  * 출처: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21716&arcvNo=67489&realArcvGroupNo=3124&searchVal=)
 * 경성교통계획도(서15517) - 1942년 제작
-  * 원자료: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21756&arcvNo=67529&realArcvGroupNo=3124&searchVal=)
-  * 맵 타일 서비스: https://mapwarper.net/maps/48719#Export_tab
+  * 출처: [서울역사아카이브](https://museum.seoul.go.kr/archive/archiveView.do?currentPage=1&type=C&type2=&arcvGroupNo=3124&lowerArcvGroupNo=&arcvMetaSeq=21756&arcvNo=67529&realArcvGroupNo=3124&searchVal=)
+
   
 ### 소설
 * 텍스트
@@ -41,7 +38,15 @@ VIEW ▶️ http://soundh.net/modern/gubo
 ---
 
 ## Data
+### Map Tile
+* 경성정밀지도(서13209): https://mapwarper.net/maps/48721#Export_tab
+* 경성부관내도(서3147): https://mapwarper.net/maps/48718#Export_tab
+* 대경성정도(서13539): https://mapwarper.net/maps/48698#Export_tab
+* 경성교통계획도(서15517): https://mapwarper.net/maps/48719#Export_tab
+
+### JSON
 
 ---
+
 ## Creator
 * 만든이: 서소리(ssrssag@gamil.com, soundh.net)
