@@ -44,4 +44,4 @@ VIEW ▶️ http://soundh.net/modern/gubo
 
 ---
 ## Creator
-* 만든이: 서소리
+* 만든이: 서소리(ssrssag@gamil.com)
