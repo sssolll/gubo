@@ -2,7 +2,7 @@
 
 ![gubo-soundh.net](https://drive.google.com/uc?id=1Y1jAxFrS4Z3shSSn9dzQJ425cfioQvwJ)
 
-▶️ http://soundh.net/modern/gubo
+VIEW ▶️ http://soundh.net/modern/gubo 
 
 ---
 
@@ -40,5 +40,8 @@
 
 ---
 
+## Data
+
+---
 ## Creator
 * 만든이: 서소리
