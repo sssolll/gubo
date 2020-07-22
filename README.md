@@ -1,4 +1,4 @@
-# 소설가 구보씨의 일일 
+# 소설가 구보씨의 일일.map
 
 ![gubo-soundh.net](https://drive.google.com/uc?id=1Y1jAxFrS4Z3shSSn9dzQJ425cfioQvwJ)
 
